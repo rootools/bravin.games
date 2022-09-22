@@ -20,7 +20,7 @@ The game does use third party services that may collect information used to iden
 
 Link to privacy policy of third party service providers used by the game
 
--   [devtodev](https://www.devtodev.com/policy)
+-   [Gameanalytics](https://gameanalytics.com/privacy/)
 -   [Backtrace](https://backtrace.io/privacy-policy)
 
 **Log Data**
