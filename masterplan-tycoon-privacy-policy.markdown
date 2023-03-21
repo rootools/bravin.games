@@ -20,6 +20,7 @@ The game does use third party services that may collect information used to iden
 
 Link to privacy policy of third party service providers used by the game
 
+-   [Unity Services](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 -   [Gameanalytics](https://gameanalytics.com/privacy/)
 -   [Backtrace](https://backtrace.io/privacy-policy)
 
