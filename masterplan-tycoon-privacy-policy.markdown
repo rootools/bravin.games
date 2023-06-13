@@ -4,21 +4,17 @@ title: Privacy Policy
 permalink: /masterplan-tycoon/privacy-policy/
 ---
 
-Anton Bravin built the Masterplan Tycoon game as a Commercial game. This SERVICE is provided by Anton Bravin and is intended for use as is.
+Anton Bravin built the Masterplan Tycoon game (hereinafter - the “Service”). This Service is provided by Anton Bravin and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Masterplan Tycoon unless otherwise defined in this Privacy Policy.
-
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. When we say “Personal Information” we mean information that identifies you as an individual or relates to an identifiable individual. Personal Information does not include aggregated, de-identified, and/ or anonymized information, i.e., when the information has been transformed so that it no longer relates back to a person’s identity.
 
-The game does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the game
+Link to privacy policy of third party service providers used by the Service. You can find out more about the data we collect here:
 
 -   [Unity Services](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 -   [Gameanalytics](https://gameanalytics.com/privacy/)
